@@ -6,13 +6,13 @@
 [元宇宙Meta元宇宙 NFT藏品 后台管理系统源码 Meta-Admin](https://github.com/Meta-NFT-boy/meta-nft-admin)
 
 
-**A magical vue element admin.**
+**效果演示**
 
 - [效果演示地址](http://server.aimdream.com)
 
 **说明：**
 
-**master分支**：前后端统一开发的版本；用 redis + MySql；
+**master**：前后端统一开发的版本；用 redis + MySql；
 
 ## 提示
 <p style="display:flex;align-items:center;">
