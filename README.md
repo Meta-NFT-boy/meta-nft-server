@@ -1,6 +1,9 @@
 # Meta元宇宙 NFT藏品源码 前端H5+APP+小程序 源码 Meta-APP
 # META-NFT-Market
-# 项目介绍 --  鲸探 幻核 幻藏 iBox 唯一艺术 
+# 项目介绍 --  鲸探 幻核 幻藏 iBox 唯一艺术 套娃 大蛇文创
+
+支持最新套娃玩法！！！划重点！！
+
 目前最新最火的元宇宙NFT藏品项目
 
 不用再找了，这就是最新功能最全的台子
@@ -9,7 +12,9 @@
 
 同时支持公链和联盟链
 
-我们是深度参与数藏行业的专业团队。
+我们不是单纯的软件开发的团队，是深度参与数藏行业的专业团队。平台安全性级别高，后台运营功能支持齐全，还有二级做市等功能
+
+行业内很多你未考虑过的事情，各种平台开始的坑，我们都可以帮你提前想到并已经提前解决。真正省钱的是选择具有综合经验的服务商，我们专业从事服务互联网金融系统，区块链软件、交易所平台，NFT数藏平台服务。
 
 
 本系统是经过实际商用验证的好系统，具有强大的后台实用功能。
@@ -19,8 +24,6 @@
 系统具有开发周期短、开发成本低、学习成本低，易扩展易维护，在公司业务前期，1-2人即可完成项目的前后端一体维护，降低企业运营成本。
 微服务分布式架构，具有超强的高并发能力，所有服务都可以单独，根据情况可轻易扩展所需要的功能。
 
-
-行业内很多你未考虑过的事情，各种平台开始的坑，我们都可以帮你提前想到并已经提前解决。真正省钱的是选择具有综合经验的服务商，我们专业从事服务互联网金融系统，区块链软件、交易所平台，NFT数藏平台服务。
 
 ## 支持系统
 [元宇宙Meta NFT藏品 后台管理系统源码 Meta-Admin](https://github.com/Meta-NFT-boy/meta-nft-admin)
@@ -91,7 +94,7 @@ QQ：287145101、1423374876
 
 如果没有设置前面两个优先购，则全部都是普通用户可购买
 
-## 中签演示
+## 中签盲盒演示
 
 ### 盲盒支持两种模式，一种是购买资格盲盒，一种是N个藏品抽取其一的盲盒。
 
@@ -267,7 +270,6 @@ QQ：287145101、1423374876
 <img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/statics/view-demo(6).png" width="400" />
 <img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/statics/view-demo(7).png" width="400" />
 <img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/statics/view-demo(8).png" width="400" />
-
 
 ### 深色 演示
 <img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/statics/dark-view-demo(1).png" width="400" />
